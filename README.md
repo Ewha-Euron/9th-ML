@@ -35,3 +35,7 @@
   
 * 복습과제
   - 제출 x
+
+## 💚 우수 과제
+- [🌟Week1_예습과제_노현선](https://github.com/Ewha-Euron/9th-ML/pull/9/commits/4625c60a4b221a1a95609f71fb30721003f8ea34)
+- [🌟Week1_예습과제_조한희](https://github.com/Ewha-Euron/9th-ML/pull/10/commits/fad3ef2da28547f85bcbaa27dc2c68a0e541e163)
