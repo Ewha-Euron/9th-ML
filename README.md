@@ -44,3 +44,8 @@
   - 라벨: 복습과제
   - branch: Week_1
   - **9월 15일 23:59**까지 제출합니다.
+
+## 💚우수과제💚
+### 🌟 예습과제
+- [권혜수](https://github.com/Ewha-Euron/9th-ML/pull/19/files)
+- [노현선]https://github.com/Ewha-Euron/9th-ML/pull/31/files
