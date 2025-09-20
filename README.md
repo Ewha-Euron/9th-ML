@@ -48,4 +48,4 @@
 ## 💚우수과제💚
 ### 🌟 예습과제
 - [권혜수](https://github.com/Ewha-Euron/9th-ML/pull/19/files)
-- [노현선]https://github.com/Ewha-Euron/9th-ML/pull/31/files
+- [노현선](https://github.com/Ewha-Euron/9th-ML/pull/31/files)
