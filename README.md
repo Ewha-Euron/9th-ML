@@ -54,5 +54,5 @@
 ## 💚우수과제💚
 - [🌟Week3_예습과제_조승연](https://github.com/Ewha-Euron/9th-ML/pull/33/files)
 - [🌟Week3_예습과제_엄지민](https://github.com/Ewha-Euron/9th-ML/pull/46/files)
-- [🌟Week2_복습과제_엄지민](https://github.com/Ewha-Euron/9th-ML/pull/40/files)
+- [🌟Week2_복습과제_박혜린](https://github.com/Ewha-Euron/9th-ML/pull/40/files)
 
