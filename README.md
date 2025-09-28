@@ -50,3 +50,9 @@
   - 라벨: 복습과제
   - branch: Week_2
   - **9월 22일 23:59**까지 제출합니다.
+    
+## 💚우수과제💚
+- [🌟Week3_예습과제_조승연](https://github.com/Ewha-Euron/9th-ML/pull/33/files)
+- [🌟Week3_예습과제_엄지민](https://github.com/Ewha-Euron/9th-ML/pull/46/files)
+- [🌟Week2_복습과제_엄지민](https://github.com/Ewha-Euron/9th-ML/pull/40/files)
+
