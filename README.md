@@ -25,7 +25,7 @@
   - 아래 두 개의 노트북 중 **하나**를 골라 세션 내용 정리 & 코드 필사를 진행하시면 됩니다.
     - [Decision Tree And Random Forest Classifier Models](https://www.kaggle.com/code/ihsncnkz/decision-tree-and-random-forest-classifier-models#Classifications-Models-)
     - [Beginner Friendly CATBOOST with OPTUNA](https://www.kaggle.com/code/kaanboke/beginner-friendly-catboost-with-optuna)
-    - 노션 페이지 참고하여 오류 수정 부분 확인해 주세요. 
+    - 노션 페이지 5, 6주차 참고하여 오류 수정 부분 확인해 주세요. 
 - ```ipynb``` 파일로 제출해 주세요.
   - 분석 프로세스/ 관련 이론 개념정리 등: ```markdown``` 셀
   - 코드 필사: ```code``` 셀  
