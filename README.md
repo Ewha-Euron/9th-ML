@@ -1,6 +1,6 @@
 # 9th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료] - 10/6 업로드 예정
+- 📚 [발표 자료] - [5주차_발표자료_최종.pdf](https://github.com/Ewha-Euron/9th-ML/blob/aa28b1089702d4bb07d22dd29e059c38807cbb8a/5%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B5%9C%EC%A2%85.pdf)
 - 발표자: 1팀(박혜린, 엄지민, 조승연)
 - 파머완 4장 실습(4.9)
   - 캐글 산탄데르 고객 만족 예측
