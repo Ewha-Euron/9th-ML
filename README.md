@@ -40,3 +40,7 @@
   - 라벨: 복습과제
   - branch: Week_3
   - **9월 29일 23:59**까지 제출합니다.
+## 💚우수과제💚
+- [🌟Week4_예습과제_조승연](https://github.com/Ewha-Euron/9th-ML/pull/55/files)
+- [🌟Week4_예습과제_박나림](https://github.com/Ewha-Euron/9th-ML/pull/53/files)
+
