@@ -46,3 +46,6 @@
   - 제목 양식: Week5_복습과제_김이화
   - 라벨: ```복습과제```
   - **10/13 23:59**까지 제출합니다.
+## 💚우수과제💚
+- [🌟Week6_예습과제_노현선](https://github.com/Ewha-Euron/9th-ML/pull/102/files)
+- [🌟Week6_예습과제_권혜수](https://github.com/Ewha-Euron/9th-ML/pull/98/files)
