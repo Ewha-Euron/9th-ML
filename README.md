@@ -49,3 +49,6 @@
 ## 💚우수과제💚
 - [🌟Week6_예습과제_노현선](https://github.com/Ewha-Euron/9th-ML/pull/102/files)
 - [🌟Week6_예습과제_권혜수](https://github.com/Ewha-Euron/9th-ML/pull/98/files)
+
+## 추가 제출 관련사항 안내(251031 0937 update)
+- 휴동기간 조정으로, ML 레포지터리의 기존 Week6 브랜치가 Week8 브랜치로 변경된 상태입니다. 첫 주차부터 fork 해 놓으신 분들은 각자 포크 브랜치에서 아직 Week6으로 보이실 텐데, 복습과제 제출 시 개인 포크 레포지터리의 Week6 브랜치에 업로드 해 놓으신 후, pull requst을 하실 때 '''ML:Weeek8 <- (개인 포크 레포지터리): Week6'''으로 맞추어서 업로드해 주시면 됩니다. 라벨과 제목 양식도 잊지 마세요!
