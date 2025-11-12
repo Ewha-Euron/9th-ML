@@ -24,7 +24,10 @@
     - 실행 결과(출력 결과)까지 저장 후 제출해 주세요.
     
 ### 📍 9주차 복습과제
-※ 9주차 복습과제는 없습니다. 자체적으로 배운 내용을 복습해주세요!
+- 회귀 추가 Kaggle 노트북 실습
+    1. Insurance prediction with five Regressor Models
+    2. Avocado Price Predictions
+  수정 사항은 노션 참고해 주세요! 
 
 ### 📍 제출
 - **본인** 깃허브 repo에 파일을 모두 업로드 하신 후 **Euron 공식** repo 쪽으로 ```pull request```를 진행 해주세요.
