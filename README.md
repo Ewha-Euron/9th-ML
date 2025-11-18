@@ -1,7 +1,7 @@
 # 9th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료] - 11/17 업로드 예정 
+- 📚 [발표 자료] [11주차 발표 자료.pdf](https://github.com/Ewha-Euron/9th-ML/blob/d88c50192fd4a27ad14c1dbc26907b811da9d907/11%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 1팀(박혜린, 엄지민, 조승연)
 - 파머완 7장. 군집화(7.1 ~ 7.6장)
   - KMeans
