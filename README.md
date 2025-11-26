@@ -24,7 +24,7 @@
 |9주차|11/04|회귀 실습(파머완 5.9, 5.10장 + Kaggle 필사)|3팀|[📚](https://github.com/Ewha-Euron/9th-ML/blob/Week_9/9%EC%A3%BC%EC%B0%A8_Euron_3%ED%8C%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B5%9C%EC%A2%85.pdf)|
 |10주차|11/11|파머완 6장|4팀|[📚](https://github.com/Ewha-Euron/9th-ML/blob/Week_10/Week10_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |11주차|11/18|파머완 7장|1팀|[📚](https://github.com/Ewha-Euron/9th-ML/blob/Week_11/11%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
-|12주차|11/25|파머완 8장 - Part 1(8.1 ~ 8.3, 8.5장)|2팀|[📚](https://github.com/Ewha-Euron/9th-ML/blob/Week_12/Euron%202%ED%8C%80.pptx)|
+|12주차|11/25|파머완 8장 - Part 1(8.1 ~ 8.3, 8.5장)|2팀|[📚](https://github.com/Ewha-Euron/9th-ML/blob/Week_12/Week12_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |13주차|12/02|기말고사 휴식기간 - 1||
 |14주차|12/09|기말고사 휴식기간 - 2||
 |15주차|12/16|파머완 8장 - Part 2(8.6 ~ 8.9장)|3팀|[📚]()|
